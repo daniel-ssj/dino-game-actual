@@ -1,1 +1,1 @@
-# dino-game-actual
+Clone of chrome's offline dino game
